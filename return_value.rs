@@ -1,5 +1,5 @@
 fn five() ->i32 { //stating the function and return type
-    5
+    5  //dont give ';' here as its an expression we want to return
 }
 
 fn main(){
